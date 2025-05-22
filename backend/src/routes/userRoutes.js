@@ -8,7 +8,6 @@ import {
   recommendedUsers,
   sendFriendRequest,
 } from "../controllers/userController.js";
-import { send } from "vite";
 
 const router = express.Router();
 
